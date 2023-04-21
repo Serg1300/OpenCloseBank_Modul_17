@@ -1,0 +1,15 @@
+E:\SkilFact\OpenClose_Modul_17\OpenCloseBank_Modul_17\bin\Debug\net6.0\OpenCloseBank_Modul_17.exe
+E:\SkilFact\OpenClose_Modul_17\OpenCloseBank_Modul_17\bin\Debug\net6.0\OpenCloseBank_Modul_17.deps.json
+E:\SkilFact\OpenClose_Modul_17\OpenCloseBank_Modul_17\bin\Debug\net6.0\OpenCloseBank_Modul_17.runtimeconfig.json
+E:\SkilFact\OpenClose_Modul_17\OpenCloseBank_Modul_17\bin\Debug\net6.0\OpenCloseBank_Modul_17.dll
+E:\SkilFact\OpenClose_Modul_17\OpenCloseBank_Modul_17\bin\Debug\net6.0\OpenCloseBank_Modul_17.pdb
+E:\SkilFact\OpenClose_Modul_17\OpenCloseBank_Modul_17\obj\Debug\net6.0\OpenCloseBank_Modul_17.csproj.AssemblyReference.cache
+E:\SkilFact\OpenClose_Modul_17\OpenCloseBank_Modul_17\obj\Debug\net6.0\OpenCloseBank_Modul_17.GeneratedMSBuildEditorConfig.editorconfig
+E:\SkilFact\OpenClose_Modul_17\OpenCloseBank_Modul_17\obj\Debug\net6.0\OpenCloseBank_Modul_17.AssemblyInfoInputs.cache
+E:\SkilFact\OpenClose_Modul_17\OpenCloseBank_Modul_17\obj\Debug\net6.0\OpenCloseBank_Modul_17.AssemblyInfo.cs
+E:\SkilFact\OpenClose_Modul_17\OpenCloseBank_Modul_17\obj\Debug\net6.0\OpenCloseBank_Modul_17.csproj.CoreCompileInputs.cache
+E:\SkilFact\OpenClose_Modul_17\OpenCloseBank_Modul_17\obj\Debug\net6.0\OpenCloseBank_Modul_17.dll
+E:\SkilFact\OpenClose_Modul_17\OpenCloseBank_Modul_17\obj\Debug\net6.0\refint\OpenCloseBank_Modul_17.dll
+E:\SkilFact\OpenClose_Modul_17\OpenCloseBank_Modul_17\obj\Debug\net6.0\OpenCloseBank_Modul_17.pdb
+E:\SkilFact\OpenClose_Modul_17\OpenCloseBank_Modul_17\obj\Debug\net6.0\OpenCloseBank_Modul_17.genruntimeconfig.cache
+E:\SkilFact\OpenClose_Modul_17\OpenCloseBank_Modul_17\obj\Debug\net6.0\ref\OpenCloseBank_Modul_17.dll
